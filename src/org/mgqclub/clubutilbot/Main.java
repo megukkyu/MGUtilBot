@@ -9,6 +9,7 @@ public class Main {
 	
 	
 	public static void main(String[] args) {
+		System.out.println("起動開始");
 		if (args.length < 2) {
 			System.out.println("引数が間違っています");
 			System.exit(1);
