@@ -6,7 +6,7 @@ public class Main {
 
 	private static IDiscordClient client;
 	private static String loginToken;
-	s
+	
 	
 	public static void main(String[] args) {
 		if (args.length < 2) {
