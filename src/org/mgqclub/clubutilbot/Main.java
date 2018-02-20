@@ -16,8 +16,6 @@ public class Main {
 			System.out.println("引数が間違っています");
 			System.exit(1);
 		}
-		
-		
 	}
 	
     public static IDiscordClient createClient(String token) { // Returns a new instance of the Discord client
